@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: name-that-hash
+Version: 1.10.0
+Summary: The Modern Hash Identification System
+License: GPL-3.0-or-later
+Author: brandon
+Author-email: brandon@skerritt.blog
+Requires-Python: >=3.6,<4.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Dist: click (>=7.1.2,<9.0.0)
+Requires-Dist: rich (>=9.9,<11.0)

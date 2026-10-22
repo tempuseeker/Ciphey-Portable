@@ -1,0 +1,4 @@
+[console_scripts]
+name-that-hash=name_that_hash.runner:main
+nth=name_that_hash.runner:main
+
